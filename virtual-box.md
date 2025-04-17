@@ -33,11 +33,7 @@ brew tap homebrew/cask-versions
 ```
 brew install --cask virtualbox-beta
 ```
-6. To install virtualbox-beta, use the `brew install --cask virtualbox-beta` command:
 
-```
-brew install --cask virtualbox-beta
-```
 7. To complete installation, enter your password to give permission.
 
 You have successfully installed virtualbox-beta. 
